@@ -60,14 +60,13 @@ import java.util.logging.SimpleFormatter;
 public class FindRepeMain
 {
     private static final String FINDREPE = "findrepe";
-    private static final String VER = "0.12.0.rc4";
+    private static final String VER = "0.13.0";
     private static final String VERSION =
-            "findrepe  version " + VER + " alpha (2013-03-23)\n"
-            + "Copyright (C) 2009-2013 by Francisco Gómez Carrasco\n"
-            + "<http://www.softenido.com>\n";
+            "findrepe  version " + VER + " (2014-10-06)\n"
+            + "Copyright (C) 2009-2014 by Francisco Gómez Carrasco\n"
+            + "<http://www.redninjastudio.com>\n";
     private static final String REPORT_BUGS =
-            "Report bugs to <flikxxi@gmail.com>\n"
-            + "            or <http://code.google.com/p/softenido/issues>\n";
+            "Report bugs to <redninjastudio.info@gmail.com>\n";
     private static final String LICENSE =
             VERSION
             + "\n"
