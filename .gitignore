@@ -1,0 +1,16 @@
+#ignore some file types
+*~
+*.class
+
+/**/bin/
+gen/
+out/
+build/
+/**/dist/
+
+.idea/workspace.xml
+
+nbproject/private/
+nbandroid/
+
+/proofreader/nbproject/private/
